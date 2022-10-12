@@ -114,5 +114,6 @@ To get approval of the pull request much quicker and faster (`Follow Me`)🚀
 ```
 
 <tr><td align="center"><a href="https://github.com/CrackerSuman"><kbd><img src="https://avatars3.githubusercontent.com/CrackerSuman?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Suman Sharma</b></sub></a><br /></td>
+ <tr><td align="center"><a href="https://github.com/AlphaVS-76"><kbd><img src="https://avatars3.githubusercontent.com/AlphaVS-76?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Vaibhav Sharma</b></sub></a><br /></td>
 
 </tr>
